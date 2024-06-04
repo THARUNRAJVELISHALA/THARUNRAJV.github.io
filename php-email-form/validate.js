@@ -1,0 +1,1 @@
+No Content: https://arshadk07.github.io/website/assets/vendor/php-email-form/validate.js
